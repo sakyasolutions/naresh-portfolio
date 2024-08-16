@@ -1,0 +1,49 @@
+
+.portfoliobutton {
+    /* background-color: #55b689; */
+    border: none;
+    width: 200px;
+    color: #55b689;
+    font-weight: bold;
+    border: 1px solid #55b689;
+}
+.portfoliobutton:hover {
+    background-color: #55b689;
+    color: white;
+}
+
+.resumebutton {
+    /* background-color: #4f4f4f; */
+    color: #4f4f4f !important;
+    border: none;
+    width: 200px;
+    font-weight: bold;
+    border: 1px solid #4f4f4f;
+}
+.resumebutton:hover {
+    background-color: #4f4f4f;
+    color: white !important;
+}
+
+
+.fa:hover {
+    opacity: 0.7;
+}
+
+a:link {
+    text-decoration: none;
+}
+
+.menu {
+    margin-bottom: 10px;
+}
+
+.side-menu-text {
+    color: white !important;
+}
+
+.card:hover {
+    border-color: rgba(85, 182, 137, 0.7);
+    box-shadow: 0px 0px 10px 2px rgba(85, 182, 137, 0.6);
+    cursor: pointer;
+  }

@@ -1,0 +1,56 @@
+html, body { 
+    height: 100%;
+}
+
+#content { 
+    font-size: 15px;
+}
+
+.profile-nav {
+    background-color: #55b689;
+    padding: 1vw;
+    height: 100vh;
+    color: #fff;
+    scrollbar-color: rgba(0,0,0,0.2) #54B689;
+    scrollbar-width: thin;
+    overflow-y: auto;
+}
+
+.profile-nav::-webkit-scrollbar {
+    width: 5px;
+    background-color: #54B689;
+}
+
+.main-content {
+    padding: 2vw;
+    height: 100vh;
+    /* scrollbar-color: rgba(0,0,0,0.2) #54B689;
+    scrollbar-width: thin; */
+    overflow-y: auto;
+}
+
+::-webkit-scrollbar {
+    display: none;
+}
+
+/* ::-webkit-scrollbar {
+    width: 5px;
+  } */
+  
+  /* Track */
+  ::-webkit-scrollbar-track {
+    box-shadow: inset 0 0 5px grey; 
+  }
+   
+  /* Handle */
+  ::-webkit-scrollbar-thumb {
+    background: #55b689;
+  }
+  
+  /* Handle on hover */
+  ::-webkit-scrollbar-thumb:hover {
+    background: #55b689; 
+  }
+
+
+

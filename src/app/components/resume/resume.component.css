@@ -1,0 +1,39 @@
+.portfoliobutton {
+    background-color: #55b689;
+    border: none;
+    width: 230px;
+    color: white;
+    font-weight: bold;
+}
+
+.resume-name {
+    font-size: 2.56rem;
+    font-weight: 900;
+    letter-spacing: 0.2rem;
+    color: #54B689;
+}
+
+.resume-profile-image {
+    max-width: 120px;
+    border-radius: 65px !important;
+}
+
+.resume-container {
+    max-width: 1140px;
+}
+
+.resume-contact {
+    border-left: 1px solid rgba(0,0,0,0.08);
+    font-size: 0.75rem;
+}
+
+.resume-section-heading {
+    position: relative;
+    padding-left: 1rem;
+    font-size: 1.125rem;
+    letter-spacing: 0.15rem;
+    color: #54B689;
+    font-weight: bold;
+    border-left: 5px solid #54B689;
+}
+

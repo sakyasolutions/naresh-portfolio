@@ -1,0 +1,16 @@
+.fa {
+    color: #55b689;
+}
+
+.portfoliobutton {
+    /* background-color: #55b689; */
+    border: none;
+    width: 100px;
+    color: #55b689;
+    font-weight: bold;
+    border: 1px solid #55b689;
+}
+.portfoliobutton:hover {
+    background-color: #55b689;
+    color: white;
+}

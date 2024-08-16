@@ -1,0 +1,65 @@
+.provile-nav {
+    color: white;
+}
+
+a:link {
+    text-decoration: none;
+}
+
+a {
+    cursor: pointer;
+    font-weight: bold;
+}
+
+a:hover {
+    color: #4f4f4f;
+}
+
+.hire-me {
+    background-color: #7c9489;
+    color: white !important;
+    border: 1px solid white;
+    padding: 3px;
+    font-weight: bold;
+}
+
+.hire-me:hover {
+    background-color: white;
+    color: #55b689 !important;
+    font-weight: bold;
+}
+
+.side-menu-text {
+    color: white;
+}
+
+img {
+    cursor: pointer;
+    text-align: center;
+    width: 3vw; 
+    padding: 5px; 
+    border-radius: 25px;
+}
+
+img:hover {
+    -webkit-filter: brightness(120%);
+    transform: scale(1.3);
+}
+
+div {
+    margin: auto;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.active {
+    color: #4f4f4f;
+}
+
+li {
+    margin: 6px 0 0px 15px;
+}
